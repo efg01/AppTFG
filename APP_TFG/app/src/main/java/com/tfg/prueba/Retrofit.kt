@@ -32,9 +32,8 @@ interface ApiService {
 }
 
 object ApiClient {
-    private const val BASE_URL = "https://asia.ujaen.es:8025"
+    private const val BASE_URL = " "
 
-    //private const val BASE_URL = "http://10.0.2.2:8000/"
 
     val apiService: ApiService by lazy {
         val retrofit = Retrofit.Builder()
