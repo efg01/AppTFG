@@ -4,3 +4,7 @@ Wireframe de la aplicación
 
 ![image](https://github.com/user-attachments/assets/92ee6536-b109-4d7a-b40d-96f0a8e3dca0)
 Mockup de la aplicación
+
+
+![image](https://github.com/user-attachments/assets/20007ec8-4687-441a-ae32-ff5fcae2178e)
+Aplicación móvil final
